@@ -1,0 +1,8 @@
+student, assignment, submission status
+here, Shell Navigation, submitted
+Noel, Shell Navigation, not submitted
+bliss,Shell Navigation, submitted
+Alice, Shell Navigation, not submitted
+Mahoro, Shell Navigation, submitted
+Keza, Shell Navigation, not submitted
+Kwizera, Shell Navigation, not submitted
